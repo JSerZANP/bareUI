@@ -1,0 +1,25 @@
+{
+  "name": "bare",
+  "version": "0.0.1",
+  "description": "A React component library for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSerZANP/bare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSerZANP/bare/issues"
+  },
+  "homepage": "https://github.com/JSerZANP/bare#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28"
+  }
+}
