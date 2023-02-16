@@ -1,6 +1,6 @@
 # bare
 
-This is React component library for solely learning purpose
+This is React component library for learning purpose
 
 # Demo
 
